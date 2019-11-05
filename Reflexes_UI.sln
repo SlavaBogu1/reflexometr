@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflexes_UI", "Reflexes_UI.csproj", "{A67B8246-72EC-4234-92E2-144A57F95DE4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ReflexometrSetup", "..\..\Setup\ReflexometrSetup\ReflexometrSetup.vdproj", "{C3E37C3B-1388-486B-B80F-85C50ACC18B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67B8246-72EC-4234-92E2-144A57F95DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67B8246-72EC-4234-92E2-144A57F95DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67B8246-72EC-4234-92E2-144A57F95DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67B8246-72EC-4234-92E2-144A57F95DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E37C3B-1388-486B-B80F-85C50ACC18B0}.Debug|Any CPU.ActiveCfg = Debug
+		{C3E37C3B-1388-486B-B80F-85C50ACC18B0}.Release|Any CPU.ActiveCfg = Release
+		{C3E37C3B-1388-486B-B80F-85C50ACC18B0}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B1783A-3D2A-45C5-B300-964033F171AB}
+	EndGlobalSection
+EndGlobal
